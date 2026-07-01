@@ -1,4 +1,4 @@
-# Artful Computing Workshop @ Netlogo Conference 2026
+# Artful Computing Workshop @ NetlogoCon 2026
 
 ## Workshop Part 1
 
