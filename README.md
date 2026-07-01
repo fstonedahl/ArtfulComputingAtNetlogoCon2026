@@ -4,9 +4,7 @@ Workshop materials for the Artful Computing workshop at the 2026 NetLogo Confere
 
 # Step 1: Extra Software Installation
 
-# Artful Computing Workshop - Additional Tool Installation
-
-For the first half of the workshop, all you need is NetLogo 7.x and a creative mindset.
+For the first half of the workshop, all you need is NetLogo 7.x and a creative mindset!
 
 **BUT for the SECOND HALF**, if you want to make more advanced 3D artistic renderings (with shadows and reflections), and make movies from those, you must install third party software.
 
