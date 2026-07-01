@@ -4,7 +4,7 @@
 
 For the first part of the workshop, all you need is:
 
-1. NetLogo 7.x
+1. [NetLogo 7.x](https://www.netlogo.org/downloads/)
 2. Download and extract the [example files](art_workshop_examples.zip)
 3. A creative mindset!
    
