@@ -5,7 +5,7 @@
 For the first part of the workshop, all you need is:
 
 1. [NetLogo 7.x](https://www.netlogo.org/downloads/)
-2. Download and extract [artworkshop_examples.zip]([art_workshop_examples.zip](https://github.com/fstonedahl/ArtfulComputingAtNetlogoCon2026/raw/refs/heads/main/art_workshop_examples.zip))
+2. Download and extract [artworkshop_examples.zip](https://github.com/fstonedahl/ArtfulComputingAtNetlogoCon2026/raw/refs/heads/main/art_workshop_examples.zip)
 3. A creative mindset!
    
 ## Workshop Part 2
