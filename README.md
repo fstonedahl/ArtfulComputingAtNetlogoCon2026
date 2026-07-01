@@ -1,12 +1,16 @@
 # Artful Computing Workshop @ Netlogo Conference 2026
 
-## First Half
+## Workshop Part 1
 
-For the first half of the workshop, all you need is NetLogo 7.x, a creative mindset, and to download the example files [here](art_workshop_examples.zip)
+For the first part of the workshop, all you need is:
 
-## Second Half
+1. NetLogo 7.x
+2. Download and extra the [example files](art_workshop_examples.zip)
+3. A creative mindset!
+   
+## Workshop Part 2
 
-**BUT for the SECOND HALF**, if you want to make more advanced 3D artistic renderings (with shadows and reflections), and make movies from those, you must install third party software.
+**BUT for the SECOND PART**, if you want to make more advanced 3D artistic renderings (with shadows and reflections), and make movies from those, you must install third party software.
 
 ### For LINUX machines:
 
